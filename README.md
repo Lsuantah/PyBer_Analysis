@@ -8,6 +8,9 @@ The purpose of this project is to provide exploratory analysis on PyBer data to 
 
 ## Results:
 
+![PyBer_Pivot](https://user-images.githubusercontent.com/75961117/111935943-f716df00-8a9a-11eb-9b05-9cddc8736359.PNG)
+
+
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/75961117/111935787-9edfdd00-8a9a-11eb-87ef-f8f6ab9b161e.png)
 
 
