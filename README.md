@@ -4,6 +4,8 @@
 
 The purpose of this project is to provide exploratory analysis on PyBer data to help the company improve ride-sharing services.  We will create summary DataFrames of the ride-sharing data by city type which will be used to create charts to show relationships between city type, riders and the fare paid by city type.
 
+![PyBer_summary_df](https://user-images.githubusercontent.com/75961117/111935865-ccc52180-8a9a-11eb-9af4-761e1c8de3cf.PNG)
+
 ## Results:
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/75961117/111935787-9edfdd00-8a9a-11eb-87ef-f8f6ab9b161e.png)
